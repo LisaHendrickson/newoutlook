@@ -1,0 +1,82 @@
+# Custom Forms in New Outlook (as of Sep 10, 2024)
+
+> If you had **custom forms** in Classic Outlook, please note:  
+> **They currently do not convert to New Outlook.**
+
+---
+
+## Overview
+
+Custom forms were not something I personally developed for clients, but I’ve worked with many who relied heavily on them—sometimes investing significant time and money to build the perfect solution.
+
+If you’re using an older version of Outlook or still have access to Classic Outlook, I strongly recommend:
+
+- Reviewing your custom forms while you still can
+- Making a detailed list of what those forms *did* for you
+- Preparing a migration plan to alternative tools
+
+---
+
+## What Custom Forms Used to Do
+
+Classic Outlook custom forms could handle:
+
+- Specialized data entry
+- Automations and workflows
+- Custom fields and views
+- Integration with internal tools
+
+Unfortunately, these capabilities are not supported in **New Outlook** as of the current release.
+
+---
+
+## Next Steps
+
+### 1. **Search for 365 Connected Apps**
+
+New Outlook only supports apps that are **365-connected**. To get started:
+
+- Open **New Outlook**
+- Use the in-app **AppSource search** (see [Microsoft AppSource](https://appsource.microsoft.com/))
+- Look for third-party tools that provide similar functionality
+
+> This is the best route for replacing basic and mid-level custom forms.
+
+---
+
+### 2. **Enterprise Users: Hire a Power Apps Consultant**
+
+If you're part of a larger company with more advanced needs:
+
+- Look into **Microsoft Power Apps**
+- Consider hiring a **Power Platform consultant**
+- You may be able to recreate or even improve upon your old forms with more modern technology
+
+---
+
+## Still Not Sure What To Do?
+
+I’ve been actively researching these changes since Microsoft began the New Outlook rollout.  
+If you're stuck, feel free to reach out. I’m happy to offer guidance or ideas for moving forward.
+
+---
+
+## Contact
+
+**Lisa Hendrickson**  
+[callthatgirl.biz](https://callthatgirl.biz)  
+lisa@callthatgirl.biz  
+612-865-4475
+
+---
+
+## Screenshots & Visuals (Coming Soon)
+
+Stay tuned for visual guides and walk-throughs on how to explore 365 apps in New Outlook.
+
+---
+
+## Contributions
+
+Have insight or tools to share? Please feel free to open an issue or pull request. This repo aims to help users navigate one of the most overlooked transitions in Outlook history.
+
